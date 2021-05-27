@@ -1,0 +1,1 @@
+The data in ''x.dat'' were obtained from [this online repository](https://fizyka.umk.pl/publications/ifiz/luwo/x_state.93) and were originally published by L. Wolniewicz in [*J. Chem. Phys.* **99**, 1851 (1993)](https://doi.org/10.1063/1.466957).
