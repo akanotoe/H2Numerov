@@ -6,4 +6,4 @@ A Jupyter notebook designed to solve the time-independent Schrödinger equation 
 * Ab initio dissociation limit quantum number n (e.g. 2, 3, ...)
 * Adiabatic dissociation limit correction.
 
-The program assumes that PECs are in (https://en.wikipedia.org/wiki/Hartree_atomic_units)[atomic units].
+The program assumes that PECs are in [atomic units](https://en.wikipedia.org/wiki/Hartree_atomic_units).
