@@ -7,3 +7,5 @@ A Jupyter notebook designed to solve the time-independent Schrödinger equation 
 * Adiabatic dissociation limit correction.
 
 The program assumes that PECs are in [atomic units](https://en.wikipedia.org/wiki/Hartree_atomic_units).
+
+Part of my Ph.D. work.
